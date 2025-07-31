@@ -1,0 +1,224 @@
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Navigation */
+nav {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header img {
+  border-radius: 50%;
+  margin-top: 1rem;
+}
+
+/* Sections */
+section {
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+h2 {
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+/* Project Cards */
+.project-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #fafafa;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+/* Contact Links */
+#contact ul {
+  list-style: none;
+  padding: 0;
+
+}
+
+#contact ul li {
+  margin: 0.5rem 0;
+}
+
+#contact a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+✅
+/* General styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Navigation */
+nav {
+  background-color: #228B22; /* Green */
+  padding: 1rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 2rem;
+  background-color: #e6ffe6;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+header img {
+  border-radius: 50%;
+  width: 200px;
+  margin-top: 1rem;
+}
+
+/* Center the image directly if it's outside header */
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+}
+
+/* Sections */
+section {
+  padding: 2rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+h2 {
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+/* Project Cards */
+.project-card {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  background-color: #fafafa;
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+/* Contact Links */
+#contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+#contact ul li {
+  margin: 0.5rem 0;
+}
+
+#contact a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+/* Logo Styling */
+.logo {
+  font-size: 1.5rem;
+  color: white;
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+/* If using an image logo */
+.logo img {
+  height: 40px;
+  vertical-align: middle;
+}
+
+/* Footer Styling */
+footer {
+  background-color: #228B22;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
